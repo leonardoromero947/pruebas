@@ -1,0 +1,224 @@
+{
+  "httpResponse": 200,
+  "responseCode": "RSP_000",
+  "responseMessage": "Operación exitosa",
+  "responseObject": {
+    "historial": [
+      {
+        "idCotizacion": 165,
+        "seguimiento": [
+          {
+            "id": 2,
+            "fecha": "24/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Solicitud de portabilidad.",
+            "archivo": {
+              "nombre": "SolicitudPortabilidad.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 1,
+            "fecha": "23/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envía la cotización solicitada.",
+            "archivo": {
+              "nombre": "Cotizacion_V1.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 131,
+        "seguimiento": [
+          {
+            "id": 3,
+            "fecha": "30/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Cotización aceptada por el cliente.",
+            "archivo": {
+              "nombre": "Cotizacion_AAAA-417027-Aceptada.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 2,
+            "fecha": "25/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "El ejecutivo realizó ajustes en el número de equipos.",
+            "archivo": {
+              "nombre": "Version_2_Ajustes.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 1,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envía la cotización inicial.",
+            "archivo": {
+              "nombre": "Cotizacion_Inicial.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 132,
+        "seguimiento": [
+          {
+            "id": 2,
+            "fecha": "21/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "El cliente canceló la solicitud por tiempo de espera prolongado.",
+            "archivo": {
+              "nombre": "Recordatorio_Cotizacion.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 1,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envió cotización inicial.",
+            "archivo": {
+              "nombre": "Cotizacion_Inicial.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 143,
+        "seguimiento": [
+          {
+            "id": 1,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Cotización aceptada correctamente.",
+            "archivo": {
+              "nombre": "Cotizacion_Aceptada.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 10,
+        "seguimiento": [
+          {
+            "id": 1,
+            "fecha": "10/11/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envía cotización a SEPÚLVEDA - CASTELLANOS.",
+            "archivo": {
+              "nombre": "Cotizacion_RenovacionV1.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 13,
+        "seguimiento": [
+          {
+            "id": 1,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Cotización inicial generada.",
+            "archivo": {
+              "nombre": "Cotizacion_V1.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 14,
+        "seguimiento": [
+          {
+            "id": 4,
+            "fecha": "24/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Solicitud cancelada definitivamente.",
+            "archivo": {
+              "nombre": "Recordatorio_Cotizacion.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 3,
+            "fecha": "23/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "El cliente no validó la cotización enviada.",
+            "archivo": {
+              "nombre": "Recordatorio_Cotizacion.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 2,
+            "fecha": "22/01/2025",
+            "comentario": "Se envía actualización de requisitos.",
+            "archivo": {
+              "nombre": "RequisitosActualizados.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 1,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envía la cotización inicial.",
+            "archivo": {
+              "nombre": "Cotizacion_V1.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      },
+      {
+        "idCotizacion": 15,
+        "seguimiento": [
+          {
+            "id": 2,
+            "fecha": "20/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Cotización aceptada y en proceso de implementación.",
+            "archivo": {
+              "nombre": "AutorizacionImplementacion.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          },
+          {
+            "id": 1,
+            "fecha": "18/01/2025",
+            "folio":"AAA-000000",
+            "comentario": "Se envía la cotización inicial.",
+            "archivo": {
+              "nombre": "Cotizacion_V1.pdf",
+              "url": "/resources/v2/files/downloads/archivodepruebas.pdf"
+            },
+            "compartir": true
+          }
+        ]
+      }
+    ]
+  }
+}
